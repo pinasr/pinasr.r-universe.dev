@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/phl-r/universe/assets/flag.svg" width="120" />
+  <img src="https://raw.githubusercontent.com/phl-r/universe/assets/phh.png" width="120" />
   <h1>PHL-R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
