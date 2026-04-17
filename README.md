@@ -9,6 +9,7 @@ The **PHL-R Registry** is a community-driven repository hosted on [R-Universe](h
   <h1>PHL-R Registry</h1>
   <p><i>The Central Infrastructure for Philippine R Software</i></p>
 </div>
+
 ---
 
 ## 🏛️ Our Mission
