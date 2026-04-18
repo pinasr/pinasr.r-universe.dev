@@ -3,7 +3,7 @@
 </div>
 
 ## 📢 Thanks for you interest to contribute to #PinasR! 
-Let's let the R-Universe know about your work! By adding your package to our registry, you help build the collective packages of the Philippines.
+Let's let the R-Universe know about your work! By adding your package to our registry (above ^), you help build the collective packages of the Philippines.
 
 To contribute, you just need to update the `packages.json` file in this repository. Follow these steps:
 
