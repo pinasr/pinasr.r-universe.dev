@@ -1,11 +1,12 @@
 [
   {
     "package": "roroph",
-    "url": "https://github.com/pinasr/roroph"
+    "url": "https://github.com/pinasr/pinasr",
+    "subdir": "roroph"
   },
   {
     "package": "ArchipelagoEngine",
-    "url": "https://github.com/pinasr/ArchipelagoEngine"
+    "url": "https://github.com/pinasr/pinasr",
+    "subdir": "ArchipelagoEngine"
   }
-] 
- 
+]
