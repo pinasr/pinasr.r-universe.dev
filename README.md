@@ -7,8 +7,8 @@ Let's let the R-Universe know about your work! By adding your package to our reg
 
 To contribute, you just need to update the `packages.json` file in this repository. Follow these steps:
 
-* **1. Fork this Repository:** Click the "Fork" button at the top right to create your own copy.
-* **2. Edit packages.json:** Add a new entry for your package. It should look like this:
+**1. Fork this Repository:** Click the "Fork" button at the top right to create your own copy.
+**2. Edit packages.json:** Add a new entry for your package. It should look like this:
 ```
 {
   "package": "yourPackageName",
@@ -16,7 +16,7 @@ To contribute, you just need to update the `packages.json` file in this reposito
 }
 # Make sure to add a comma , after the previous entry:-)
 ```
-* **3. Submit a Pull Request:** Save your changes and open a Pull Request (PR) back to the main branch of `pinasr.r-universe.dev.`
-* **4. The Build:** Once the PR is merged, the PinasR bot will automatically detect your package, build the binaries for Windows, Mac, and Linux, and feature it on our official registry. For concerns that you haven't settled despite online research, you may get in touch [here.](ninotalingting77@gmail.com)
+**3. Submit a Pull Request:** Save your changes and open a Pull Request (PR) back to the main branch of `pinasr.r-universe.dev.`
+**4. The Build:** Once the PR is merged, the PinasR bot will automatically detect your package, build the binaries for Windows, Mac, and Linux, and feature it on our official registry. For concerns that you haven't settled despite online research, you may get in touch [here.](ninotalingting77@gmail.com)
 
 
