@@ -19,5 +19,11 @@
     "url": "https://github.com/yng-me/phscs",
     "status": "indexed",
     "note": "Philippine Statistical Classification Systems"
+  },
+  {
+    "package": "bagyo",
+    "url": "https://github.com/panukatan/bagyo",
+    "status": "indexed",
+    "note": "Philippine Tropical Cyclones Data"
   }
 ]
